@@ -2,7 +2,7 @@
 
 **NOTE:** The Linked Will be uploaded soon.
 
-**The API Allows Clients to build a Online Libaray. With Create, Update, Remove, and Delete(CRUD) Functionality to ensure up-to-date inventory.**
+**The API Allows Clients to build a Online Libaray with Create, Update, Remove, and Delete(CRUD) Functionality to ensure up-to-date inventory.**
 
 ### The Propose of this project was to learn and practice the following concepts:
 >- RESTful API
