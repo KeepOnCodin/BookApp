@@ -1,14 +1,14 @@
 # Web Application (ASP.Net 6 & Razor pages)
 
-**The API Allows Clients Build a Online Libaray. They may Create, Update, Remove, and Delete(CRUD) thier archives allowing for up to date Site.**
+**The API Allows Clients to build a Online Libaray. With Create, Update, Remove, and Delete(CRUD) Functionality to ensure up-to-date inventory.**
 
-### The Propose of this project to learn and practice the following concepts:
+### The Propose of this project was to learn and practice the following concepts:
 >- RESTful API
 >- MVC Archtectiural Pattern
 >- .Net Core 6
 >- C#
 
-#### More Specifically I practiced the following concepts:
+#### More Specifically I implemented the following concepts:
 >- Dependency Injection
 >- Repository Design Pattern
 >- Razor pages
